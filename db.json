@@ -3,9 +3,9 @@
     "token": [
         {
             "id": 0,
-            "description": "My NFT",
+            "description": "A Pixelated Chicken inspired by CryptoPunks",
             "image": "https://i.ibb.co/BrzQbCX/Pollo.jpg",
-            "name": "My NFT 0"
+            "name": "CryptoChicken"
         }
       ]
 }
